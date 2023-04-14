@@ -1,2 +1,0 @@
-# EdStack
-LMS Project
